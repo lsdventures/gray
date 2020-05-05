@@ -33,7 +33,7 @@ disqus:
 
 paginate:            1000
 paginate_path:       "/page:num/"
-baseurl:             "/tom-tat-sach/"
+baseurl:             "/tom-tat-sach"
   
 compress_html:
   clippings: all
